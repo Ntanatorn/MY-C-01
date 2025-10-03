@@ -7,6 +7,7 @@ int main(){
     char fullname[10] = "kapom";
     int score ;
 
+    
     score= 99;
 
     printf("My name is : %s\n", fullname);
