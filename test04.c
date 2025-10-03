@@ -8,6 +8,7 @@ int main(){
     printf("AAA....%d-----%s^_______^ %d\n",111, "wow wow wow", 10+20);
 
     printf("AAA\nBBBB\nccc\n\nttt\t\tdddd");
+    
 
     return 0;
 }

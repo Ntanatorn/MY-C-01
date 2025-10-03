@@ -9,6 +9,7 @@
 // เเละสามารถเอาตัวเเทนที่สร้างไว้มาใช้งานได้
 #define Showline printf("+++++++++++++++++++++++++++++\n");
 #define Smile "^_______^"
+
 int main (){
     Showline
     printf("IoT-Sau\n");
