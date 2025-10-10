@@ -21,9 +21,10 @@ int main(){     //main function
      showHi();
      ShowSenPa
      
-     
+
     return 0;
 }
+
 
 void showHi(){ //   user-defined function
     printf("Hi\n");
