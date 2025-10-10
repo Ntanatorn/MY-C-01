@@ -4,6 +4,7 @@
 #define ShowSenPa printf("---------------------\n");
 #define Smile "^_^"
 
+
 //global declation
 int Number = 555;
 void showHi();
