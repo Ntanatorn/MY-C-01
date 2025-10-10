@@ -15,7 +15,5 @@ int main(){
     printf("score is : %d\n", score);
 
 
-
-
     return 0;
 }

@@ -21,8 +21,6 @@ int main(){     //main function
      showHi();
      ShowSenPa
      
-
-
     return 0;
 }
 
