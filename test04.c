@@ -9,5 +9,6 @@ int main(){
 
     printf("AAA\nBBBB\nccc\n\nttt\t\tdddd");
     
+    
     return 0;
 }
